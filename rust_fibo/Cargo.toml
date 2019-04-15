@@ -1,0 +1,7 @@
+[package]
+name = "rust_fibo"
+version = "0.1.0"
+authors = ["Gerardo <heidel.gerardo@gmail.com>"]
+edition = "2018"
+
+[dependencies]
